@@ -1,0 +1,67 @@
+         MODULE-01
+
+• Are the HTML tags and elements the same thing? 
+  -NO
+
+• What are tags and attributes in HTML? 
+  -<b>,<i>,etc are tags
+   color,bgcolor etc are attribures
+
+• What are void elements in HTML? 
+  -meta,link,br etc
+
+• What are HTML Entities? 
+  -;,&
+
+• What are different types of lists in HTML?
+  -1.ordered list 2.unorderedlist 3.description list
+ 
+• What is the ‘class’ attribute in HTML? 
+  -to spacifies one or more tags for css
+
+• What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML 
+elements? 
+  - name of id can not be same
+    name of class can be same
+
+• What are the various formatting tags in HTML? 
+  -<i>,<b>,<strong>,<em>,etc
+
+• How is Cell Padding different from Cell Spacing? 
+  -cell spacing works outside(for spacing)
+   cell padding works inside(for spacing)
+
+• How can we club two or more rows or columns into a single row or column in an HTML 
+table? 
+  - by use of rowspan & colspan
+
+• What is the difference between a block-level element and an inline element?
+  -width of block-level element is full width whlile width of inline element is same as width of contant
+
+• How to create a Hyperlink in HTML? 
+  -in <a> tag href attribute
+
+• What is the use of an iframe tag? 
+  -iframe is use to marge different htmlfiles
+
+• What is the use of a span tag? Explain with example? 
+  -to markup
+
+• How to insert a picture into a background image of a web page? 
+  - <head> > <style> > body > background-image > url()
+
+• How are active links different from normal links? 
+  -default color of active link is blue
+   default color of normal link is black
+
+• What are the different tags to separate sections of text? 
+  -
+
+• What is SVG? 
+
+
+• What is difference between HTML and XHTML? 
+  -html is not case sensitive
+   xhtml is case sensitive
+
+• What are logical and physical tags in HTML?
